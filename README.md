@@ -1,2 +1,2 @@
 # Mapping_Earthquakes
- module 14
+ An Interactive map of earthquakes
